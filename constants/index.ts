@@ -62,61 +62,61 @@ export const news = [
 
 // News Page
 
-export const news_page = [
+export const product = [
   {
     id: 1,
-    img: "/import.jpeg",
+    img: "/img1.png",
     title: "Sample Message",
     desc: " Lorem ipsum, dolor sit amet consectetur adipisicing elit.quaerat distinctio aperiam dolores sequi molestiae blanditiis deleniti beatae, repudiandae corporis eum soluta ratione esse? Distinctio totam asperiores optio iusto eos velit assumenda unde eius voluptates esse recusandae illo quidem ex soluta tempora inventore repellendus odio nostrum aspernatur molestiae, excepturi perspiciatis.  ",
   },
   {
     id: 2,
-    img: "/import.jpeg",
+    img: "/img2.jpg",
     title: "Sample Message",
     desc: " Lorem ipsum, dolor sit amet consectetur adipisicing elit.quaerat distinctio aperiam dolores sequi molestiae blanditiis deleniti beatae, repudiandae corporis eum soluta ratione esse? Distinctio totam asperiores optio iusto eos velit assumenda unde eius voluptates esse recusandae illo quidem ex soluta tempora inventore repellendus odio nostrum aspernatur molestiae, excepturi perspiciatis.  ",
   },
 
   {
     id: 3,
-    img: "/import.jpeg",
+    img: "/pic.png",
     title: "Sample Message",
     desc: " Lorem ipsum, dolor sit amet consectetur adipisicing elit.quaerat distinctio aperiam dolores sequi molestiae blanditiis deleniti beatae, repudiandae corporis eum soluta ratione esse? Distinctio totam asperiores optio iusto eos velit assumenda unde eius voluptates esse recusandae illo quidem ex soluta tempora inventore repellendus odio nostrum aspernatur molestiae, excepturi perspiciatis.  ",
   },
   {
     id: 4,
-    img: "/import.jpeg",
+    img: "/pic.png",
     title: "Sample Message",
     desc: " Lorem ipsum, dolor sit amet consectetur adipisicing elit.quaerat distinctio aperiam dolores sequi molestiae blanditiis deleniti beatae, repudiandae corporis eum soluta ratione esse? Distinctio totam asperiores optio iusto eos velit assumenda unde eius voluptates esse recusandae illo quidem ex soluta tempora inventore repellendus odio nostrum aspernatur molestiae, excepturi perspiciatis.  ",
   },
   {
     id: 5,
-    img: "/import.jpeg",
+    img: "/pic4.jpg",
     title: "Sample Message",
     desc: " Lorem ipsum, dolor sit amet consectetur adipisicing elit.quaerat distinctio aperiam dolores sequi molestiae blanditiis deleniti beatae, repudiandae corporis eum soluta ratione esse? Distinctio totam asperiores optio iusto eos velit assumenda unde eius voluptates esse recusandae illo quidem ex soluta tempora inventore repellendus odio nostrum aspernatur molestiae, excepturi perspiciatis.  ",
   },
 
   {
     id: 6,
-    img: "/import.jpeg",
+    img: "/pic4.jpg",
     title: "Sample Message",
     desc: " Lorem ipsum, dolor sit amet consectetur adipisicing elit.quaerat distinctio aperiam dolores sequi molestiae blanditiis deleniti beatae, repudiandae corporis eum soluta ratione esse? Distinctio totam asperiores optio iusto eos velit assumenda unde eius voluptates esse recusandae illo quidem ex soluta tempora inventore repellendus odio nostrum aspernatur molestiae, excepturi perspiciatis.  ",
   },
   {
     id: 7,
-    img: "/import.jpeg",
+    img: "/pic5.jpg",
     title: "Sample Message",
     desc: " Lorem ipsum, dolor sit amet consectetur adipisicing elit.quaerat distinctio aperiam dolores sequi molestiae blanditiis deleniti beatae, repudiandae corporis eum soluta ratione esse? Distinctio totam asperiores optio iusto eos velit assumenda unde eius voluptates esse recusandae illo quidem ex soluta tempora inventore repellendus odio nostrum aspernatur molestiae, excepturi perspiciatis.  ",
   },
   {
     id: 8,
-    img: "/import.jpeg",
+    img: "/img2.jpg",
     title: "Sample Message",
     desc: " Lorem ipsum, dolor sit amet consectetur adipisicing elit.quaerat distinctio aperiam dolores sequi molestiae blanditiis deleniti beatae, repudiandae corporis eum soluta ratione esse? Distinctio totam asperiores optio iusto eos velit assumenda unde eius voluptates esse recusandae illo quidem ex soluta tempora inventore repellendus odio nostrum aspernatur molestiae, excepturi perspiciatis.  ",
   },
 
   {
     id: 9,
-    img: "/import.jpeg",
+    img: "/pic5.jpg",
     title: "Sample Message",
     desc: " Lorem ipsum, dolor sit amet consectetur adipisicing elit.quaerat distinctio aperiam dolores sequi molestiae blanditiis deleniti beatae, repudiandae corporis eum soluta ratione esse? Distinctio totam asperiores optio iusto eos velit assumenda unde eius voluptates esse recusandae illo quidem ex soluta tempora inventore repellendus odio nostrum aspernatur molestiae, excepturi perspiciatis.  ",
   },
