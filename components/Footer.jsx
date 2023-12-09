@@ -52,10 +52,10 @@ const Footer = () => {
                 About us
               </Link>
               <Link
-                href="/projects"
+                href="/product"
                 className="py-2 text-sm hover:text-gray-200"
               >
-                Our Works
+                Products
               </Link>
               <Link
                 href="/services"

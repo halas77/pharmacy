@@ -4,7 +4,7 @@ function index() {
   return (
     <div style={{ fontFamily: '"Lato", sans-serif' }}>
       {/* Code block starts */}
-        <section className="mx-auto container pt-8 bg-gray-100 rounded-3xl">
+        <section className="mx-auto container pt-8 bg-gray-100 rounded-ee-[80px] rounded-ss-[80px]">
           <div>
             <div className="flex items-center flex-col px-4">
               <p className="uppercase text-sm font-semibold text-center text-slate-900">
@@ -34,7 +34,7 @@ function index() {
                   </p>
                 </div>
               </div>
-              <div className="focus:outline-none flex sm:w-full md:w-5/12 pb-20">
+              <div className="focus:outline-none flex sm:w-full md:w-5/12 pb-10">
                 <div className="w-20 h-20 relative mr-5">
                   <div className="absolute top-0 right-0 bg-indigo-100 rounded w-16 h-16 mt-2 mr-1" />
                   <div className="absolute text-white bottom-0 left-0 bg-indigo-700 rounded w-16 h-16 flex items-center justify-center mt-2 mr-3">
@@ -56,7 +56,7 @@ function index() {
                   </p>
                 </div>
               </div>
-              <div className="focus:outline-none flex sm:w-full md:w-5/12 pb-20">
+              <div className="focus:outline-none flex sm:w-full md:w-5/12 pb-10">
                 <div className="w-20 h-20 relative mr-5">
                   <div className="absolute top-0 right-0 bg-indigo-100 rounded w-16 h-16 mt-2 mr-1" />
                   <div className="absolute text-white bottom-0 left-0 bg-indigo-700 rounded w-16 h-16 flex items-center justify-center mt-2 mr-3">
@@ -78,7 +78,7 @@ function index() {
                   </p>
                 </div>
               </div>
-              <div className="focus:outline-none flex sm:w-full md:w-5/12 pb-20">
+              <div className="focus:outline-none flex sm:w-full md:w-5/12 pb-10">
                 <div className="w-20 h-20 relative mr-5">
                   <div className="absolute top-0 right-0 bg-indigo-100 rounded w-16 h-16 mt-2 mr-1" />
                   <div className="absolute text-white bottom-0 left-0 bg-indigo-700 rounded w-16 h-16 flex items-center justify-center mt-2 mr-3">

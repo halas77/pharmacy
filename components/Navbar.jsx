@@ -5,10 +5,9 @@ import Link from "next/link";
 import React, { useState } from "react";
 import { usePathname } from "next/navigation";
 import { nav_links } from "@/constants";
-import { HiBars3, HiPhone } from "react-icons/hi2";
-import { IoIosMail } from "react-icons/io";
-import { FaLocationDot } from "react-icons/fa6";
+import { HiBars3 } from "react-icons/hi2";
 import { LiaTimesSolid } from "react-icons/lia";
+import { motion } from "framer-motion";
 
 const Navbar = () => {
   const pathname = usePathname();
@@ -19,7 +18,12 @@ const Navbar = () => {
 
   return (
     <>
-      <header className="top-0 left-0 w-full fixed z-[9999] py-5 md:px-8 px-4 bg-white border-b">
+      <motion.header className="top-0 left-0 w-full fixed z-[9999] py-5 md:px-8 px-4 bg-white border-b"
+      initial={{y:-250}}
+      animate={{y:0}}
+      transition={{delay:0.2, type: 'spring', stiffness: 100}}
+
+      >
         <div className="container mx-auto">
           <div className="flex justify-between items-center">
             <div className="xl:pl-10">
@@ -67,7 +71,7 @@ const Navbar = () => {
             </div>
           </div>
         </div>
-      </header>
+      </motion.header>
 
       {/* Mobile Navigation */}
 

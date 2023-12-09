@@ -2,15 +2,14 @@ import React from "react";
 
 const Services = () => {
   return (
-    <section className="bg-gray-100 py-4 lg:py-16">
+    <section className="bg-gray-100 py-4 lg:py-16 sm:pb-0 pb-20">
       <div className="container flex flex-col px-4 mx-auto space-y-6 md:space-y-0 md:flex-row">
         <div className="flex flex-col space-y-6 md:w-1/2">
-          <h2 className=" text-4xl font-bold md:text-left">
+          <h2 className="text-2xl md:text-4xl font-bold md:text-left">
             About our company
           </h2>
           <p className="md:max-w-xl text-gray-700 md:text-left">
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum,
-            reiciendis facilis. Dolor laborum voluptatum quasi autem reiciendis
             temporibus. Expedita dolorem atque nostrum dicta officia eaque
             perspiciatis eum magni animi, totam saepe qui ducimus iure
             laudantium quod quis asperiores eius corrupti molestias veritatis

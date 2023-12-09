@@ -41,9 +41,9 @@ export const wegen_data = [
 export const news = [
   {
     id: 1,
-    img: "/import.jpeg",
+    img: "/pic3,png.jpeg",
     title: "Sample Message",
-    desc: " Lorem ipsum, dolor sit amet consectetur adipisicing elit.quaerat distinctio aperiam dolores sequi molestiae blanditiis deleniti beatae, repudiandae corporis eum soluta ratione esse? Distinctio totam asperiores optio iusto eos velit assumenda unde eius voluptates esse recusandae illo quidem ex soluta tempora inventore repellendus odio nostrum aspernatur molestiae, excepturi perspiciatis.  ",
+    desc:"Lorem ipsum, dolor sit amet consectetur adipisicing elit.quaerat distinctio aperiam dolores sequi molestiae"
   },
   {
     id: 2,
